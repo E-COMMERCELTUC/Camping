@@ -1,0 +1,42 @@
+﻿@model Camping.ViewModels.CategoryProductsVM
+
+@{
+    ViewData["Title"] = "Category";
+}
+
+<h1>Category</h1>
+
+<div>
+    <h4>@Model.category.Name</h4>
+ 
+    
+   
+    <hr />
+    <label> @Model.category.Name</label>
+    <hr />
+    <label> @Model.category.Description</label>
+    <hr />
+    
+        @foreach (var pro in Model.products)
+        {
+
+            <ul>
+            
+             <label>name :</label>   @pro.Name
+            
+            <li>
+                <label>manufacturer :</label> @pro.Manufacturer
+            </li>
+              <li>
+                <label>spec :</label>
+                @pro.Spec
+            </li>
+             
+               </ul>
+             
+        }
+    
+</div>
+<div>
+
+</div>

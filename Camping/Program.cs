@@ -1,5 +1,10 @@
 using Camping.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
+using System.Collections.Generic;
+using Camping.Models;
+using Camping.Models.Interface;
+using Camping.Models.Service;
 
 namespace Camping
 {
@@ -16,7 +21,8 @@ namespace Camping
             //DB Connection
             string connString = builder.Configuration.GetConnectionString("DefaultConnection");
             builder.Services.AddDbContext<EcommerceDb>(options => options.UseSqlServer(connString));
-
+            builder.Services.AddTransient<ICategory, CategoryService>();
+            builder.Services.AddTransient<IProduct, ProductService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

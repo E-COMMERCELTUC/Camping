@@ -40,6 +40,26 @@ namespace Camping.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "contains all the tables and chairs you need for camping ",
+                            Name = "tables & Chairs"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "contains all the types of tents ",
+                            Name = "tents"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "contains all the types of  Accessories",
+                            Name = "Accessories"
+                        });
                 });
 
             modelBuilder.Entity("Camping.Models.Product", b =>
@@ -70,6 +90,56 @@ namespace Camping.Migrations
                     b.HasIndex("CategoryID");
 
                     b.ToTable("products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryID = 1,
+                            Manufacturer = "Ikea",
+                            Name = "wooden table",
+                            Spec = "size: 2*3*1.5 m, color:black , matireal= wood"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryID = 1,
+                            Manufacturer = "Ikea",
+                            Name = "steel table",
+                            Spec = "size: 2*3*1.5 m, color:silver , matireal= steel"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CategoryID = 2,
+                            Manufacturer = "renvate",
+                            Name = "Armor tent ",
+                            Spec = "size: 1.5*2*3 m, color:black , matireal= wool"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CategoryID = 2,
+                            Manufacturer = "renvate",
+                            Name = "small tent ",
+                            Spec = "size: 2*2*2 m, color:red , matireal= wool"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CategoryID = 3,
+                            Manufacturer = "nike",
+                            Name = "water bottle",
+                            Spec = "size: medeum, color:black , matireal= plastic"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CategoryID = 3,
+                            Manufacturer = "nike",
+                            Name = "climing wear ",
+                            Spec = "size: xl, color:red , matireal= cotten"
+                        });
                 });
 
             modelBuilder.Entity("Camping.Models.Product", b =>

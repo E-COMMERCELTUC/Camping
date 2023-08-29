@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\SOKKER\Source\Repos\E-COMMERCELTUC\Camping\Camping
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Category/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Category/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

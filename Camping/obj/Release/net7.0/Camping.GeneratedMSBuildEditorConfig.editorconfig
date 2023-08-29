@@ -16,30 +16,42 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\SOKKER\Source\Repos\E-COMMERCELTUC\Camping\Camping
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Home/Index.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Category/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Category/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Home/Privacy.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/Error.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/_ViewImports.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/_ViewStart.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SOKKER/Source/Repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/_Layout.cshtml]
+[C:/Users/SOKKER/source/repos/E-COMMERCELTUC/Camping/Camping/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ub611zvzp9
