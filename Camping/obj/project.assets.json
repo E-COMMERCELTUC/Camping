@@ -3876,19 +3876,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\SOKKER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNet\\Camping\\Camping\\Camping.csproj",
+      "projectUniqueName": "C:\\Users\\SOKKER\\Source\\Repos\\E-COMMERCELTUC\\Camping\\Camping\\Camping.csproj",
       "projectName": "Camping",
-      "projectPath": "E:\\DotNet\\Camping\\Camping\\Camping.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNet\\Camping\\Camping\\obj\\",
+      "projectPath": "C:\\Users\\SOKKER\\Source\\Repos\\E-COMMERCELTUC\\Camping\\Camping\\Camping.csproj",
+      "packagesPath": "C:\\Users\\SOKKER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SOKKER\\Source\\Repos\\E-COMMERCELTUC\\Camping\\Camping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SOKKER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3962,7 +3962,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
